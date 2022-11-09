@@ -1,0 +1,2 @@
+# snippets
+Funny code snippets
