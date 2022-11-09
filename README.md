@@ -1,2 +1,2 @@
 # snippets
-Funny code snippets
+Funny code snippets :)
